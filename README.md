@@ -127,7 +127,7 @@ For more on the underlying problem, see [this discussion of LLM anchoring mechan
 
 ## Credits
 
-Created by [Christian Dömges](https://github.com/creadian) as part of the [AI Junto](https://www.aijunto.com/) community.
+Created by [Christian Sextl](https://github.com/creadian) as part of the [AI Junto](https://www.aijunto.com/) community.
 
 ## License
 
