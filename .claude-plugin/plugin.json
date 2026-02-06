@@ -1,0 +1,5 @@
+{
+  "name": "broad-perspectives",
+  "description": "Multi-agent debiased analysis. Deploys independent sub-agents with fresh context windows to analyze problems from maximally diverse perspectives, defeating anchoring bias.",
+  "version": "1.0.0"
+}
